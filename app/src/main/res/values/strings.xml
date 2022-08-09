@@ -1,4 +1,4 @@
 <resources>
     <string name="app_name">DiceRolling</string>
-    <string name="press_the_die_to_roll_it">Press the die to roll it</string>
+    <string name="tap_to_roll_it">Tap to roll it</string>
 </resources>

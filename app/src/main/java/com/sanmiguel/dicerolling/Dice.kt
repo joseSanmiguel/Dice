@@ -9,8 +9,7 @@ class Die (val dieSides: Int){
             3-> R.drawable.number_3
             4-> R.drawable.number_4
             5-> R.drawable.number_5
-            6-> R.drawable.number_6
-            else -> R.drawable.number_1
+            else -> R.drawable.number_6
         }
         return lados
     }
